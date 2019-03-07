@@ -13,4 +13,5 @@
       mintegralSdkType {
           type = 'appwall'
           area = 'oversea'
-      }``` 
+      }
+      ```
